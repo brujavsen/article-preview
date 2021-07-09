@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/brujavsen/article-preview)
+- Live Site URL: [Netlify](https://article-preview-component-master-bruno.netlify.app/)
 
 ## My process
 
